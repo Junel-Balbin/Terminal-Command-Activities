@@ -1,3 +1,3 @@
 # Terminal-Command-Activities
 
-*
+* 
